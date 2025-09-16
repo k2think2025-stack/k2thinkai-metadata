@@ -1,0 +1,35 @@
+{
+  "name": "K2ThinkAI",
+  "symbol": "K2AI",
+  "description": "The official token of the K2ThinkAI ecosystem.",
+  "image": "https://raw.githubusercontent.com/k2think2025-stack/k2thinkai-metadata/main/K2thinkai_2_1_1_optimized.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/k2think2025-stack/k2thinkai-metadata/main/K2thinkai_2_1_1_optimized.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HxKrImobpwFXzeQR1WsmBwRuaBjj3nF5Cq6LPXzzwyz",
+        "share": 100
+      }
+    ],
+    "social": {
+      "twitter": "https://x.com/K2thinkai?t=fZbKH3kraiQ5AT8jSVh6xw&s=35",
+      "telegram": "https://t.me/k2thinkaii",
+      "discord": "https://discord.gg/ZKKrECwB"
+    }
+  }
+}
